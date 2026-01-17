@@ -1,5 +1,3 @@
-# Arch
-
 ## Setup auto-cpufreq
 ```bash
 # Install & Setup
